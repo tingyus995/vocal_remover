@@ -4,7 +4,7 @@ My own easy-to-understand implementation of the paper [Jansson et al., "Singing 
 
 ## Usage
 ### Training
-* Put audio files with mixed track on the left channel and instrument-only track on the right channel into the ``data`` directory.
+* Put audio files with instrument-only track on the left channel and mixed (with vocal) track on the right channel into the ``data`` directory.
 
 * Run train.py
 
